@@ -1,3 +1,4 @@
+#Examine each species type
 #ToDo: provide links to more info on animals
 for filename in $*
 do
